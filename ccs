@@ -1,8 +1,8 @@
 {
     "room":                     "LegendaryPortal",
-    "author":                   "FireForrry",
+    "author":                   "FireForry",
     "icon":                     null,
-    "css":                      null,
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
